@@ -6,7 +6,7 @@ Este aplicativo foi desenvolvido em **Flutter** como parte dos meus estudos em d
 Abaixo, a interface principal rodando em modo estável:
 
 <p align="center">
-  <img src="screenshots/Captura de tela Inicial.png" width="300" alt="Interface do App">
+  <img src="Cartão de Visita/Screenshots/Captura de tela Inicial.png" width="300" alt="Interface do App">
 </p>
 
 ## 📥 Download do App
