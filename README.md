@@ -47,5 +47,21 @@ Você pode testar a lógica de sorteio baixando o APK abaixo:
 * **Framework:** Flutter
 
 ---
+## 🧮 Calculadora Simples
+Uma claculadora que efetua contas simples, e que mostra o resultado ao mesmo tempo qem que se digita.
+
+### 📱 Visual do Aplicativo
+O app conta com uma interface limpa onde ambos os dados reagem a cada toque na tela:
+
+<p align="center">
+  <img src="Calculadora Simples/Screenshots/Calculadora1.png" width="280" alt="Tela Inicial">
+  <img src="Calculadora Simples/Screenshots/Calculadora2.png" width="280" alt="Dados Sorteados">
+</p>
+
+### 📥 Download do App
+
+> **[👉 Clique aqui para baixar o APK (Calculadora Simples.apk)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Calculadora%20Simples/Calculadora%20Simples.apk))**
+
+---
 
 >*Projetos em constante evolução para fins de aprendizado.*
