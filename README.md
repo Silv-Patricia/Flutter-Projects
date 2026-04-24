@@ -60,7 +60,7 @@ O app conta com uma interface limpa onde ambos os dados reagem a cada toque na t
 
 ### 📥 Download do App
 
-> **[👉 Clique aqui para baixar o APK (Calculadora Simples.apk)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Calculadora%20Simples/Calculadora%20Simples.apk))**
+> **[👉 Clique aqui para baixar o APK (Calculadora Simples.apk)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Calculadora%20Simples/Calculadora%20Simples%20v.1.10.1.apk))**
 
 ---
 
