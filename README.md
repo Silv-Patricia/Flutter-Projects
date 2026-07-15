@@ -48,7 +48,7 @@ Você pode testar a lógica de sorteio baixando o APK abaixo:
 
 ---
 ## 🧮 Calculadora Simples
-Uma claculadora que efetua contas simples, e que mostra o resultado ao mesmo tempo qem que se digita.
+Uma claculadora que efetua contas simples, e que mostra o resultado ao mesmo tempo em que se digita.
 
 ### 📱 Visual do Aplicativo
 O app conta com uma interface limpa onde ambos os dados reagem a cada toque na tela:
@@ -61,6 +61,22 @@ O app conta com uma interface limpa onde ambos os dados reagem a cada toque na t
 ### 📥 Download do App
 
 > **[👉 Clique aqui para baixar o APK (Calculadora Simples.apk)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Calculadora%20Simples/Calculadora%20Simples%20v.1.10.1.apk))**
+
+---
+
+## 🥁🎹 Marimba (Instrumento Musical)
+Um app simples que funciona como uma marimba (Teclado gigante, parecido com um parece um xilofone).
+
+### 📱 Visual do Aplicativo
+
+<p align="center">
+  <img src="Marimba/Marimba.jpeg" width="280" alt="Tela">
+  <video src="Marimba/Marimba-uso.mp4" width="280" controls autoplay muted loop></video>
+</p>
+
+### 📥 Download do App
+
+> **[👉 Clique aqui para baixar o APK (Marimba)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Marimba/Marimba.apk))**
 
 ---
 
