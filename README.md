@@ -78,6 +78,9 @@ Um app simples que funciona como uma marimba (Teclado gigante, parecido com um p
 
 > **[👉 Clique aqui para baixar o APK (Marimba)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Marimba/Marimba.apk))**
 
+### 📺 Demonstração do App
+[![Demonstração do Marimba](https://youtube.com)](https://youtube.com/shorts/uw8jvBYkJjg)
+
 ---
 
 >*Projetos em constante evolução para fins de aprendizado.*
