@@ -54,8 +54,8 @@ Uma claculadora que efetua contas simples, e que mostra o resultado ao mesmo tem
 O app conta com uma interface limpa onde ambos os dados reagem a cada toque na tela:
 
 <p align="center">
-  <img src="Calculadora Simples/Screenshots/Calculadora1.png" width="280" alt="Tela Inicial">
-  <img src="Calculadora Simples/Screenshots/Calculadora2.png" width="280" alt="Dados Sorteados">
+  <img src="Calculadora Simples/Screenshots/Calculadora1.png" width="280" alt="Tela 1">
+  <img src="Calculadora Simples/Screenshots/Calculadora2.png" width="280" alt="tela 2">
 </p>
 
 ### 📥 Download do App
