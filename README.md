@@ -71,7 +71,6 @@ Um app simples que funciona como uma marimba (Teclado gigante, parecido com um p
 
 <p align="center">
   <img src="Marimba/Marimba.jpeg" width="280" alt="Tela">
-  <video src="Marimba/Marimba-uso.mp4" width="280" controls autoplay muted loop></video>
 </p>
 
 ### 📥 Download do App
