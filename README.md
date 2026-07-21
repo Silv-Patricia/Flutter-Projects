@@ -58,6 +58,11 @@ O app conta com uma interface limpa onde ambos os dados reagem a cada toque na t
   <img src="Calculadora Simples/Screenshots/Calculadora2.png" width="280" alt="tela 2">
 </p>
 
+### 🛠️ Tecnologias e Informações
+* **Linguagem:** Dart
+* **Framework:** Flutter
+
+
 ### 📥 Download do App
 
 > **[👉 Clique aqui para baixar o APK (Calculadora Simples.apk)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Calculadora%20Simples/Calculadora%20Simples%20v.1.10.1.apk))**
@@ -70,8 +75,12 @@ Um app simples que funciona como uma marimba (Teclado gigante, parecido com um p
 ### 📱 Visual do Aplicativo
 
 <p align="center">
-  <img src="Marimba/Marimba.jpeg" width="280" alt="Tela">
+  <img src="Marimba/Screenshot/Marimba.jpeg" width="280" alt="Tela">
 </p>
+
+### 🛠️ Tecnologias e Informações
+* **Linguagem:** Dart
+* **Framework:** Flutter
 
 ### 📥 Download do App
 
@@ -79,6 +88,30 @@ Um app simples que funciona como uma marimba (Teclado gigante, parecido com um p
 
 ### 📺 Demonstração do App
 > **[Clique aqui para assistir à demonstração do App](https://youtube.com/shorts/uw8jvBYkJjg?si=gxlMQz5a8-ndRGl8)**
+
 ---
 
+## 🦉 Sua Casa Harry Potter
+Uma app com perguntas básicas para descobrir qual é sua casa em Harry Potter.
+
+### 📱 Visual do Aplicativo
+<p align="center">
+  <img src="Sua Casa Harry Potter/Screenshots/Tela Inicial.jpeg" width="280" alt="Tela Inicial">
+  <img src="Sua Casa Harry Potter/Screenshots/Pergunta.jpeg" width="280" alt="Tela 2">
+</p>
+
+<p align="center">
+  <img src="Sua Casa Harry Potter/Screenshots/Perguntas.jpeg" width="280" alt="Tela 2">
+</p>
+
+### 🛠️ Tecnologias e Informações
+* **Linguagem:** Dart
+* **Framework:** Flutter
+
+
+### 📥 Download do App
+
+> **[👉 Clique aqui para baixar o APK (Sua casa em Harry Potter.apk)](https://raw.githubusercontent.com/Silv-Patricia/Flutter-Projects/refs/heads/main/Sua%20Casa%20Harry%20Potter/Sua%20casa%20em%20Harry%20Potter.apk)**
+  
+---
 >*Projetos em constante evolução para fins de aprendizado.*
